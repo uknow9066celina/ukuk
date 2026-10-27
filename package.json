@@ -1,0 +1,1 @@
+{"name":"integrity-citizen-portal","private":true,"type":"module","engines":{"node":">=22"},"dependencies":{"fast-xml-parser":"^5.3.0"}}
